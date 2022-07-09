@@ -12,7 +12,9 @@ This is a program witch makes it easier to set a custom Discord playing message.
 - Lightweight 
 ##  How to Download
 
-[Download the program ](https://github.com/TheRealJoelmatic/Modern-Discord-RPC/releases/tag/Discord)
+[Download the latest release](https://github.com/TheRealJoelmatic/Modern-Discord-RPC/releases/tag/Discord)
+Extract the archive in C:\Program Files\ or in your Documents folder.
+Start the .exe and configure it.
 
 
 ## Info
